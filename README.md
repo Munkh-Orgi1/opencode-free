@@ -29,7 +29,7 @@ Nothing else. No Node, no admin rights, no registry changes, no services.
 Download the single file to your Desktop:
 
 ```powershell
-iwr https://raw.githubusercontent.com/<your-user>/opencode-free/main/OpenCode%20Free.bat -OutFile "$env:USERPROFILE\Desktop\OpenCode Free.bat"
+iwr https://raw.githubusercontent.com/Munkh-Orgi1/opencode-free/main/OpenCode%20Free.bat -OutFile "$env:USERPROFILE\Desktop\OpenCode Free.bat"
 ```
 
 or `git clone` the repo and copy `OpenCode Free.bat` anywhere you like.
